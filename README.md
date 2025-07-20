@@ -15,4 +15,4 @@ A simple USB power bank circuit designed in KiCad.
 
 ---
 
-Designed by [Sanjau J]
+Designed by [Sanjay J]
